@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="5" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T15:06:53 IST" name="Default suite" finished-at="2024-05-20T15:06:53 IST" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T15:06:53 IST" name="Default test" finished-at="2024-05-20T15:06:53 IST" duration-ms="31">
+      <class name="TestNg.TC_1_VerifyAdmintab_Description">
+        <test-method is-config="true" signature="Launchbrowser()[pri:0, instance:TestNg.TC_1_VerifyAdmintab_Description@34a3d150]" started-at="2024-05-20T15:06:50 IST" name="Launchbrowser" finished-at="2024-05-20T15:06:53 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchbrowser -->
+        <test-method is-config="true" signature="closeBrwoser()[pri:0, instance:TestNg.TC_1_VerifyAdmintab_Description@34a3d150]" started-at="2024-05-20T15:06:53 IST" name="closeBrwoser" finished-at="2024-05-20T15:06:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrwoser -->
+      </class> <!-- TestNg.TC_1_VerifyAdmintab_Description -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
